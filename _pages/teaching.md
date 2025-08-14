@@ -7,6 +7,22 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+# Teaching
 
-Organize your courses by years, topics, or universities, however you like!
+## Current Courses
+
+*Since 2023, I've been fully dedicated to the development of my PhD thesis.*  
+
+---
+
+## Previous Courses
+
+**2022 — 2023**: *Software Testing*
+**2020 — 2021**: *Mobile Programming*
+**2020 — 2021**: *Web Project Development* 
+**2019**: *Computer Theory*  
+**2018**: *Project Management*, *Mobile Programming*, *Object-Oriented Programming*
+**2017 — 2018 **: *Web Programming*, *IT Governance*  
+
+
+
