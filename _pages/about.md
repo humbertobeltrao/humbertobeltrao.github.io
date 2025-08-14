@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Student at <a href='https://portal.cin.ufpe.br/'>CIn-UFPE</a>.
 
 profile:
   align: right
@@ -27,8 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I’m Humberto. I’m a PhD student in the LIVE (Vehicular Innovation and Smart Cities) lab, @ Centro de Informática (Informatics Center) from the Federal University of Pernambuco (UFPE) :brazil:. I'm also a CS Professor at the Federal Institute of Pernambuco <a href='[https://portal.cin.ufpe.br](https://portal.ifpe.edu.br/garanhuns/)/'>IFPE</a>.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My main research areas include Software-Defined Vehicles (SDV), Over-the-Air (OTA) Updates, Vehicle Diagnostics, and Connected and Autonomous Vehicles (CAV). I'm being advised by Prof. <a href='[[https://portal.cin.ufpe.br](https://portal.ifpe.edu.br/garanhuns/)](https://portal.cin.ufpe.br/staff/?alias=agsf)/'>Abel Guilhermino</a> focusing on the security aspects of ECU firmware updates using the Unified Diagnostic Services (UDS) protocol.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously, I obtained my Master's and Bachelor's degrees from the University of Pernambuco (UPE) in Computer Engineering. As an undergraduate, I had the opportunity to work at the Systems Engineering Lab, dealing with the communication aspects of UAVs simulated using the Robot Operating System (ROS) framework and swarm intelligence mechanisms.
+
