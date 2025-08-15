@@ -7,7 +7,7 @@ subtitle: PhD Student at <a href='https://portal.cin.ufpe.br/'>CIn-UFPE</a>.
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Av. Jorn. Aníbal Fernandes, s/n - Cidade Universitária, Recife - PE (BR), 50740-560</p>
     <p>CIn-UFPE (BR)</p>
