@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-# Teaching
+# **Teaching**
 
 ## Current Courses
 
@@ -24,7 +24,7 @@ nav_order: 6
 **2018**: *Project Management*, *Mobile Programming*, *Object-Oriented Programming*  
 **2017 — 2018**: *Web Programming*, *IT Governance*  
 
-# Advising
+# **Advising**
 
 * **Cloves José Duarte Silva** — Instituto Federal de Pernambuco [*Federal Institute of Pernambuco (BR)*]. 2025. (Currently Sr. Software Developer at **Avanade**)  
 * **João Pedro Monteiro Pereira** — Instituto Federal de Pernambuco [*Federal Institute of Pernambuco (BR)*]. 2024. (Currently pursuing a Master's in Computer Science at **Centro de Informática (CIn)**)  
