@@ -9,8 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Av. Jorn. Aníbal Fernandes, s/n - Cidade Universitária, Recife - PE (BR), 50740-560</p>
-    <p>CIn-UFPE (BR)</p>
+    <p>Av. Jorn. Aníbal Fernandes, Recife - PE (BR)</p>
     <p>hbcj2 at cin dot ufpe dot br</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
