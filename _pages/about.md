@@ -31,5 +31,4 @@ Hi, I’m Humberto. I’m a PhD student in the LIVE (Vehicular Innovation and Sm
 
 My main research areas include Software-Defined Vehicles (SDV), Over-the-Air (OTA) Updates, Vehicle Diagnostics, and Connected and Autonomous Vehicles (CAV). I'm being advised by Prof. <a href='https://portal.cin.ufpe.br/staff/?alias=agsf/'>Abel Guilhermino</a>, focusing on the security aspects of ECU firmware updates using the Unified Diagnostic Services (UDS) protocol.
 
-Previously, I obtained my Master's and Bachelor's degrees from the University of Pernambuco (UPE) in Systems Engineering and Computer Engineering, respectively. At that time, I had the opportunity to work with the communication aspects of UAVs simulated using the Robot Operating System (ROS) framework and swarm intelligence mechanisms.
 
